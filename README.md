@@ -1,4 +1,4 @@
-#💊 Pharmacy Management System – SQL Project 
+# Pharmacy Management System 💊 – SQL Project 
 
 # Overview
 Developed a structured pharmacy database using MySQL, focusing on medicines, prescriptions, doctors, and sales. Wrote analytical SQL queries to generate business insights such as top-selling medicines, revenue by payment method, and stock alerts, showcasing real-world data analysis and reporting skills.
