@@ -15,7 +15,7 @@ The project includes the following relational tables:
 
 # Features and Capabilities
 
-📄 Basic Queries (Level 1) 
+📄 Basic Queries (Level 1)
 
 *List available medicines in stock
 *Identify low-stock or expired medicines
