@@ -17,10 +17,10 @@ The project includes the following relational tables:
 
 📄 Basic Queries (Level 1)
 
-*List available medicines in stock
-*Identify low-stock or expired medicines
-*Retrieve patient, doctor, and medicine details
-*Filter patients by city and sort them alphabetically
+* List available medicines in stock
+* Identify low-stock or expired medicines
+* Retrieve patient, doctor, and medicine details
+* Filter patients by city and sort them alphabetically
 
 📊 Intermediate Queries (Level 2) 
 
@@ -39,5 +39,4 @@ The project includes the following relational tables:
   
 # Conclusion 
 This project showcases the capabilities of SQL in managing and analyzing real-world pharmacy data.
-
 
